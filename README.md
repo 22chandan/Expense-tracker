@@ -13,7 +13,11 @@ This mobile application is designed to help users track and manage their persona
    cd expense-tracker-app
    ```
 3. Ensure you have Flutter installed. If not, follow the installation instructions [here](https://flutter.dev/docs/get-started/install).
-4. Run the app on your device or emulator:
+4. Get the dependencies:
+   ```
+   flutter pub get
+   ```
+5. Run the app on your device or emulator:
    ```
    flutter run
    ```

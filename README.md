@@ -37,18 +37,4 @@ This mobile application is designed to help users track and manage their persona
 - **Unit Testing**: Conducted thorough unit testing, particularly focusing on business logic within ViewModel classes.
 - **Code Coverage**: Aimed for substantial code coverage using relevant testing frameworks and practices to ensure the reliability and robustness of the application.
 
-### Next Steps (Optional)
-- **User Authentication**: Integrate user authentication features for personalized experiences.
-- **Multi-Language Support**: Implement localization for broader accessibility.
-- **Advanced UI Animations**: Enhance user engagement with advanced animations and transitions.
-
-### Evaluation Criteria
-- **Functionality**: Ensuring adherence to specified features and requirements.
-- **Code Quality**: Maintaining clean, well-organized, and documented code.
-- **UI/UX Design**: Creating an intuitive and attractive interface.
-- **Clean Architecture**: Demonstrating effective use of Clean Architecture principles.
-- **Unit Testing**: Providing comprehensive tests and coverage for business logic.
-- **Notifications**: Implementing and managing local notifications effectively.
-- **Flutter Capabilities**: Proficient utilization of Flutter features and widgets for optimal performance and user experience.
-
 For any further inquiries or assistance, please contact [itschandan26@gmail.com](mailto:itschandan26@gmail.com).
